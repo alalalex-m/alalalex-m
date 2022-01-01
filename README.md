@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=alalalex-m)
 
-![](http://antzuhl.cn:4000/get/@alalalex-m)
-<!--
+![info](https://github-readme-stats.vercel.app/api?alalalex-m=CasterWx&show_icons=true&count_private=true&hide=prs&theme=dark)<!--
 **alalalex-m/alalalex-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
