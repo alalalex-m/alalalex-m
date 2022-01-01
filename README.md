@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=alalalex-m)
 
-![info](https://github-readme-stats.vercel.app/api?alalalex-m=CasterWx&show_icons=true&count_private=true&hide=prs&theme=dark)<!--
-**alalalex-m/alalalex-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alalalex-m&theme=aura&show_icons=true)](https://github.com/alalalex-m)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alalalex-m&theme=aura&layout=compact)](https://alalalex-m.github.io/)
+
+
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://alalalex-m.github.io/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
